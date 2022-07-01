@@ -8,7 +8,4 @@ handler.help = ['banchat']
 handler.tags = ['owner']
 handler.command = /^(banchat|bnc)$/i
 
-handler.owner = true
-handler.botAdmin = true
-
 export default handler
