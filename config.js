@@ -10,7 +10,7 @@
 // • The.Sad.Boy01
 // • Rasel comel
 // • Xtreshe (Beban)
-// • Rexxin (Creator This Bot)
+// • Sabo (Creator This Bot)
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
@@ -44,36 +44,36 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = '-'
-global.sgh = 'https://github.com/RexxinOfficial'
+global.sig = 'https://instagram.com/dzycassano'
+global.sgh = '-'
 global.sgc = 'https://chat.whatsapp.com/BXRH5ApRnbaHm6ULbPuG4d'
 global.sdc = '-'
 global.snh = 'https://nhentai.net/g/364296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '0813-1754-9796'
+global.pdana = '0821-4520-3493'
 global.povo = '-'
-global.pgopay = '0813-1754-9796'
-global.ppulsa = '0813-1754-9796'
+global.pgopay = '0821-4520-3493'
+global.ppulsa = '0821-4520-3493'
 global.ppulsa2 = '-'
-global.psaweria = 'https://saweria.co/rexxinofc'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281564663825'
-global.nomorown = '6281317549796'
-global.namebot = 'Rexxin - MD'
-global.nameown = 'Rexxin Official'
+global.nomorbot = '6288976956307'
+global.nomorown = '628815952469'
+global.namebot = 'Sabo - MD'
+global.nameown = 'Sabo'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281317549796'],
-  ['6281317549796'],
-  ['6281317549796'],
-  ['6281317549796', 'Sabo - Sama', true]
+  ['6288976956307'],
+  ['6288976956307'],
+  ['6288976956307'],
+  ['6288976956307', 'Sabo - Sama', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['6281317549796','6281564663825'] // Want some help?
+global.mods = ['6282145203493','6288976956307'] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
@@ -105,7 +105,7 @@ global.APIKeys = { // APIKey Here
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
-  'https://melcanz.com': 'APIKEY',
+  'https://melcanz.com': 'melcantik',
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://server-api-rey.herokuapp.com': 'apirey',
   'https://botstyle-api.herokuapp.com': 'APIKEY',
@@ -115,13 +115,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Rexxin - MD 」' //Main Watermark
-global.wm2 = 'Rexxin - MD'
-global.wm3 = 'Rexxin - MD'
+global.wm = '                「 Sabo - MD 」' //Main Watermark
+global.wm2 = 'Sabo - MD'
+global.wm3 = 'Sabo - MD'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 Sabo Botz⁩ 」'
+global.author = '                「 Sabo - MD 」'
 
 
 /*============== LOGO ==============*/
@@ -189,7 +189,7 @@ global.htjava = '⫹⫺' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
 global.stickpack = ''
-global.stickauth = `Created By Rexxin`
+global.stickauth = `Created By Sabo`
 
 global.multiplier = 69 // The higher, The harder levelup
 
